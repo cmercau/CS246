@@ -1,4 +1,6 @@
 Hello World!
 On va changer le text.
+<<<<<<< HEAD
 Okay, j'ai changé autre fois.
 谢谢
+=======
